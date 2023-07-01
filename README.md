@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on vite technologies PLC
 - 🌱 I’m currently learning at microverse a remote software development school.
 - 💬 Ask me about ... <strong>MERN</strong> stack.
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/haben-mehari-593531140)
+- 📫 You can reach me via :  [Linkedin](https://www.linkedin.com/in/haben-mehari-593531140)
 
 <p align="center">
   <a href="https://www.r-project.org/" target="_blank">
